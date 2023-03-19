@@ -11,3 +11,8 @@ All boilerplate code managed by [express generator](https://expressjs.com/en/sta
 
 ## Screenshot
 <img src="public/img/screenshot.png">
+
+## Video Reference
+
+https://user-images.githubusercontent.com/34826492/226204913-730cdab3-41ac-4fe2-a261-9abb0eb3aa9c.mp4
+
