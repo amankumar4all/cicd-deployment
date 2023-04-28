@@ -1,7 +1,7 @@
 # Build Simple Website with NodeJS, Express & EJS view engine
 
 ## Document
-* Clone this repo: ``` git clone curl -s https://www.githubstatus.com/api/v2/status.json  ```
+* Clone this repo: ``` git clone curl -s https://github.com/amankumar4all/dashboard.git  ```
 * Install dependencies using [npm](https://www.npmjs.com/) javascript package manager: ``` npm install ```
 * Start node server with [nodemon](https://nodemon.io/): ``` nodemon start ```
 * Tune to url: ``` http://localhost:3000 ```
